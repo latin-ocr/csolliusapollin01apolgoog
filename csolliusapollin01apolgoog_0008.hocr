@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./csolliusapollin01apolgoog_0008.png"; bbox 0 0 2614 4030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 603 1140 1116">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 603 1140 1116">
+     <span class='ocr_line' id='line_1_1' title="bbox 122 603 1140 718; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 122 605 186 716; x_wconf 79' lang='lat' dir='ltr'><strong>O.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 230 603 556 716; x_wconf 80' lang='lat' dir='ltr'>SOLLIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 596 605 1140 718; x_wconf 75' lang='lat' dir='ltr'><strong>APOLLINARIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 399 915 861 1116; baseline 0.009 -68"><span class='ocrx_word' id='word_1_4' title='bbox 399 915 861 1116; x_wconf 48' lang='lat' dir='ltr'>§JDONIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 524 1521 623 1602">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 524 1521 623 1602">
+     <span class='ocr_line' id='line_1_3' title="bbox 600 1521 623 1552; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 600 1521 623 1552; x_wconf 68' lang='lat' dir='ltr'><em>f</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 524 1565 587 1602; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 524 1565 587 1602; x_wconf 49' lang='lat' dir='ltr'><strong>..fl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 368 1805 903 1900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 368 1805 903 1900">
+     <span class='ocr_line' id='line_1_5' title="bbox 368 1805 903 1900; baseline 0.004 -29"><span class='ocrx_word' id='word_1_7' title='bbox 368 1805 651 1873; x_wconf 66' lang='lat' dir='ltr'><strong>Munus</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 697 1805 903 1900; x_wconf 53' lang='lat' dir='ltr'>{011ss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1312 4030">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1312 4030">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1312 4030; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1312 4030; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
